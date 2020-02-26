@@ -1,3 +1,3 @@
 # automat
 
-some content
+!!!some content
